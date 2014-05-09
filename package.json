@@ -1,0 +1,34 @@
+{
+  "name": "peento-blog-simditor",
+  "version": "0.0.1",
+  "description": "Simditor for peento-blog",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/peento/peento-blog-simditor.git"
+  },
+  "keywords": [
+    "blog",
+    "peento",
+    "Simditor"
+  ],
+  "author": "Zongmin Lei <leizongmin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peento/peento-blog-simditor/issues"
+  },
+  "homepage": "https://github.com/peento/peento-blog-simditor",
+  "dependencies": {
+    "debug": "^0.8.0",
+    "markdown": "~0.5.0",
+    "passport": "~0.2.0",
+    "passport-local": "~1.0.0",
+    "passport-github": "~0.1.5",
+    "async": "~0.7.0",
+    "xss": "~0.1.8",
+    "lei-mysql": "~0.1.6"
+  }
+}
