@@ -1,7 +1,7 @@
 peento-blog-simditor
 ====================
 
-peento-blog的Simditor编辑器插件
+peento-blog的 [Simditor编辑器](https://github.com/mycolorway/simditor) 插件
 
 
 
