@@ -1,0 +1,6 @@
+<textarea name="content" class="simditor" id="{{id|escape}}">{{content|escape}}</textarea>
+
+{{ "lib/simditor/styles/font-awesome.css"|asset_url|stylesheet_tag }}
+{{ "lib/simditor/styles/simditor.css"|asset_url|stylesheet_tag }}
+{{ "lib/simditor/scripts/simditor-all.min.js"|asset_url|script_tag }}
+{{ "simditor/init.js"|asset_url|script_tag }}
